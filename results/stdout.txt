@@ -1,0 +1,29 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 18:08:55.086 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[I 18:08:55.098 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 18:08:55.131 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 18:08:55.171 NotebookApp] JupyterLab beta preview extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 18:08:55.171 NotebookApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[I 18:08:55.176 NotebookApp] Serving notebooks from local directory: /
+[I 18:08:55.176 NotebookApp] The Jupyter Notebook is running at:
+[I 18:08:55.176 NotebookApp] http://172.17.0.3:8888/
+[I 18:08:55.177 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 18:08:56.556 NotebookApp] 302 GET /tree/%2Fmnt%2FSHAP_and_LIME.ipynb (10.0.125.128) 1.67ms
+[I 18:08:59.480 NotebookApp] 302 GET /tree/%2Fmnt%2FSHAP_and_LIME.ipynb (10.0.125.128) 1.31ms
+[I 18:08:59.967 NotebookApp] 302 GET /tree/%2Fmnt%2FSHAP_and_LIME.ipynb (10.0.125.128) 1.32ms
+[I 18:09:01.028 NotebookApp] 302 GET / (10.0.148.12) 0.74ms
+[I 18:09:03.666 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 18:09:03.668 NotebookApp] Notebook mnt/SHAP_and_LIME.ipynb is not trusted
+[I 18:09:04.790 NotebookApp] Kernel started: 46e83018-f222-4325-bf60-befc2cf6c3a6
+[I 18:09:06.524 NotebookApp] Adapting to protocol v5.1 for kernel 46e83018-f222-4325-bf60-befc2cf6c3a6
+[I 18:10:12.322 NotebookApp] Kernel interrupted: 46e83018-f222-4325-bf60-befc2cf6c3a6
+[I 18:10:22.983 NotebookApp] Starting buffering for 46e83018-f222-4325-bf60-befc2cf6c3a6:a712f2d6d00e469f9582a5e5c8d5304f
+[I 18:10:23.537 NotebookApp] Kernel restarted: 46e83018-f222-4325-bf60-befc2cf6c3a6
+[I 18:10:25.768 NotebookApp] Adapting to protocol v5.1 for kernel 46e83018-f222-4325-bf60-befc2cf6c3a6
+[I 18:10:25.769 NotebookApp] Restoring connection for 46e83018-f222-4325-bf60-befc2cf6c3a6:a712f2d6d00e469f9582a5e5c8d5304f
+[I 18:10:25.770 NotebookApp] Replaying 7 buffered messages
+[I 18:11:05.121 NotebookApp] Saving file at /mnt/SHAP_and_LIME.ipynb
+[I 18:13:05.725 NotebookApp] Saving file at /mnt/SHAP_and_LIME.ipynb
+[I 18:15:15.800 NotebookApp] Saving file at /mnt/SHAP_and_LIME.ipynb
+[I 18:19:30.058 NotebookApp] Saving file at /mnt/SHAP_and_LIME.ipynb
